@@ -1,0 +1,25 @@
+body{
+    background-color: #fefbd8;
+}
+
+h1{
+    font-size: 100px;
+    color: rgb(0, 255, 136);
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+}
+
+label{
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+input{
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(5, 245, 45, 0.334);
+}
